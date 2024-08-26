@@ -4,6 +4,7 @@
     "@emotion/styled"
     "@mui/icons-material"
     "@mui/material"
+    "konva"
     "react-konva"
     "react-toastify"
 
