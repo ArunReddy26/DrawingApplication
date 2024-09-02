@@ -12,4 +12,5 @@
     npm install konva
     npm install react-konva
     npm install react-toastify
+6. npm start
 
